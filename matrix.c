@@ -155,17 +155,9 @@ int main(int argc, char *argv[])
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
     MPI_Comm_size(MPI_COMM_WORLD, &size);
 
-    if (argc != 4)
-    {
-        if (rank == 0)
-            printf("Usage: %s <n> <seed> <verbose>\n", argv[0]);
-        MPI_Finalize();
-        return 1;
-    }
-
-    int n = atoi(argv[1]);
-    uint64_t seed = strtoull(argv[2], NULL, 10);
-    int verbose = atoi(argv[3]);
+    int n       = (argc > 1) ? atoi(argv[1]) : 8000;
+    uint64_t seed    = (argc > 2) ? atoi(argv[2]) : 42;
+    int verbose = (argc > 3) ? atoi(argv[3]) : 0;
 
     double start_time = MPI_Wtime();
 
