@@ -1,0 +1,90 @@
+==============================
+Running with 1 nodes and 64 MPI processes
+==============================
+--- Run 1/5 ---
+Checksum: 127994455599.950012
+Execution time with 64 ranks: 35.04 s
+--- Run 2/5 ---
+Checksum: 127994455599.950012
+Execution time with 64 ranks: 35.11 s
+--- Run 3/5 ---
+Checksum: 127994455599.950012
+Execution time with 64 ranks: 35.32 s
+--- Run 4/5 ---
+Checksum: 127994455599.950012
+Execution time with 64 ranks: 35.10 s
+--- Run 5/5 ---
+Checksum: 127994455599.950012
+Execution time with 64 ranks: 35.54 s
+==============================
+Running with 2 nodes and 128 MPI processes
+==============================
+--- Run 1/5 ---
+Checksum: 127994455599.950012
+Execution time with 128 ranks: 19.19 s
+--- Run 2/5 ---
+Checksum: 127994455599.950012
+Execution time with 128 ranks: 19.16 s
+--- Run 3/5 ---
+Checksum: 127994455599.950012
+Execution time with 128 ranks: 19.23 s
+--- Run 4/5 ---
+Checksum: 127994455599.950012
+Execution time with 128 ranks: 19.77 s
+--- Run 5/5 ---
+Checksum: 127994455599.950012
+Execution time with 128 ranks: 19.24 s
+==============================
+Running with 4 nodes and 256 MPI processes
+==============================
+--- Run 1/5 ---
+Checksum: 127994455599.950012
+Execution time with 256 ranks: 11.26 s
+--- Run 2/5 ---
+Checksum: 127994455599.950012
+Execution time with 256 ranks: 11.56 s
+--- Run 3/5 ---
+Checksum: 127994455599.950012
+Execution time with 256 ranks: 11.24 s
+--- Run 4/5 ---
+Checksum: 127994455599.950012
+Execution time with 256 ranks: 11.13 s
+--- Run 5/5 ---
+Checksum: 127994455599.950012
+Execution time with 256 ranks: 11.21 s
+==============================
+Running with 6 nodes and 384 MPI processes
+==============================
+--- Run 1/5 ---
+Checksum: 127994455599.950012
+Execution time with 384 ranks: 8.61 s
+--- Run 2/5 ---
+Checksum: 127994455599.950012
+Execution time with 384 ranks: 8.62 s
+--- Run 3/5 ---
+Checksum: 127994455599.950012
+Execution time with 384 ranks: 8.41 s
+--- Run 4/5 ---
+Checksum: 127994455599.950012
+Execution time with 384 ranks: 8.95 s
+--- Run 5/5 ---
+Checksum: 127994455599.950012
+Execution time with 384 ranks: 8.70 s
+==============================
+Running with 8 nodes and 512 MPI processes
+==============================
+--- Run 1/5 ---
+Checksum: 127994455599.950012
+Execution time with 512 ranks: 7.69 s
+--- Run 2/5 ---
+Checksum: 127994455599.950012
+Execution time with 512 ranks: 7.70 s
+--- Run 3/5 ---
+Checksum: 127994455599.950012
+Execution time with 512 ranks: 7.60 s
+--- Run 4/5 ---
+Checksum: 127994455599.950012
+Execution time with 512 ranks: 7.55 s
+--- Run 5/5 ---
+Checksum: 127994455599.950012
+Execution time with 512 ranks: 7.60 s
